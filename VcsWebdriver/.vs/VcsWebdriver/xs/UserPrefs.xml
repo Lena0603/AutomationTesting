@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D5975CD9-6B06-4B2C-8032-8488243BCDBB}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.VcsWebdriver PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/TestBase.cs">
+    <Files>
+      <File FileName="Tests/TestBase.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VcsWebdriver" expanded="True">
+            <Node name="VcsWebdriver" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="TestBase.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

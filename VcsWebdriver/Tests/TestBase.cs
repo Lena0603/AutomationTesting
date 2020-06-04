@@ -33,7 +33,7 @@ namespace VcsWebdriver.Tests
             }
         }
 
-        // vykdomas viena karta po visu testu
+        // vykdomas viena karta po visu testu =====
         [OneTimeTearDown]
         public static void CloseBrowser()
         {
